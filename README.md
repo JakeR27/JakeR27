@@ -9,7 +9,7 @@
 🎯 COMP1711 Procedural Programming  
 🎯 COMP1212 Computer Processors  
 🎯 COMP1721 Object Orientented Programming  
-🎯 COMP2011 Web Application Development [(view coursework)](www.jakebs.xyz)  
+🎯 COMP2011 Web Application Development [(view coursework)](https://github.com/JakeR27/comp2011-coursework2)  
 🎯 COMP2211 Operating Systems  
 🎯 COMP2221 Networks  
 🎯 COMP2932 Compiler Design and Construction  
