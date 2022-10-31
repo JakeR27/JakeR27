@@ -1,6 +1,6 @@
 👋 Hi, I’m @JakeR27
 
-📚 I'm currently in Year 2️ at the University of Leeds, studying for my CS degree
+📚 I'm currently in Year 3 at the University of Leeds, studying for my CS degree
 
 🕸 I have a website [(here)](http://www.jakebs.xyz) hosted by github pages, you're more than welcome to look at the site itself and the code [(here)](https://github.com/JakeR27/jaker27.github.io)
 
@@ -13,4 +13,5 @@
 🎯 COMP2211 Operating Systems  
 🎯 COMP2221 Networks  
 🎯 COMP2932 Compiler Design and Construction  
-
+🎯 COMP3211 Distributed System
+🎯 COMP2932 Computer Graphics  
