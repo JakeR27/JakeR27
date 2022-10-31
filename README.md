@@ -13,5 +13,5 @@
 🎯 COMP2211 Operating Systems  
 🎯 COMP2221 Networks  
 🎯 COMP2932 Compiler Design and Construction  
-🎯 COMP3211 Distributed System
-🎯 COMP2932 Computer Graphics  
+🎯 COMP3211 Distributed System  
+🎯 COMP3811 Computer Graphics
