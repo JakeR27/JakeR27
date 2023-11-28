@@ -1,17 +1,7 @@
 👋 Hi, I’m @JakeR27
 
-📚 I'm currently in Year 3 at the University of Leeds, studying for my CS degree
+💬 This used to say cool things about my degree course, but I've graduated now! 
 
-🕸 I have a website [(here)](http://www.jakebs.xyz) hosted by github pages, you're more than welcome to look at the site itself and the code [(here)](https://github.com/JakeR27/jaker27.github.io)
+📈 I was one of the top performing students, and as such, the university uses my dissertation as an example for all new cohorts 😎
 
-📜 I've taken a number of theoretical modules, alongside some applied modules too. You can see my favorites below:  
-🎯 COMP1211 Computer Architecture  
-🎯 COMP1711 Procedural Programming  
-🎯 COMP1212 Computer Processors  
-🎯 COMP1721 Object Orientented Programming  
-🎯 COMP2011 Web Application Development (view coursework: [code](https://github.com/JakeR27/comp2011-coursework2), [site](http://web.jakebs.xyz))   
-🎯 COMP2211 Operating Systems  
-🎯 COMP2221 Networks  
-🎯 COMP2932 Compiler Design and Construction  
-🎯 COMP3211 Distributed System  
-🎯 COMP3811 Computer Graphics
+🕸️ Feel free to checkout my website [(here)](http://www.jakebs.xyz), although I haven't updated it in quite some time.
